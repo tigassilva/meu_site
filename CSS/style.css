@@ -116,7 +116,7 @@ body{
 @media(max-width: 1200px){
     
     .apresentacao-imagem{
-        width: 40%;
+        width: 30%;
     }
    
     .cabecalho{
@@ -152,7 +152,7 @@ body{
 @media(max-width: 674px){
     
     .apresentacao-imagem{
-        width: 40%;
+        width: 25%;
     }
    
     .cabecalho{
@@ -171,7 +171,7 @@ body{
     }
 
     .apresentacao__conteudo{
-       width: 90%;
+       width: 85%;
       
 
        
